@@ -31,7 +31,6 @@
         },
         "frameworks": {
           "net10.0": {
-            "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {
               "C:\\Users\\proje\\source\\repos\\Monitor\\IoC\\IoC.csproj": {
@@ -57,7 +56,6 @@
       },
       "frameworks": {
         "net10.0": {
-          "framework": "net10.0",
           "targetAlias": "net10.0",
           "dependencies": {
             "Microsoft.AspNetCore.OpenApi": {
@@ -533,7 +531,6 @@
         },
         "frameworks": {
           "net10.0": {
-            "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {
               "C:\\Users\\proje\\source\\repos\\Monitor\\ModBus\\ModBus.csproj": {
@@ -556,7 +553,6 @@
       },
       "frameworks": {
         "net10.0": {
-          "framework": "net10.0",
           "targetAlias": "net10.0",
           "dependencies": {
             "Microsoft.Extensions.Configuration.Abstractions": {
@@ -889,7 +885,6 @@
         },
         "frameworks": {
           "net10.0": {
-            "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {}
           }
@@ -908,7 +903,6 @@
       },
       "frameworks": {
         "net10.0": {
-          "framework": "net10.0",
           "targetAlias": "net10.0",
           "dependencies": {
             "NModbus": {
