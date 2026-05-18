@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "seEipZktn/Q=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\proje\\source\\repos\\Monitor\\IoC\\IoC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\proje\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\10.0.8\\microsoft.extensions.configuration.abstractions.10.0.8.nupkg.sha512",
+    "C:\\Users\\proje\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.8\\microsoft.extensions.dependencyinjection.abstractions.10.0.8.nupkg.sha512",
+    "C:\\Users\\proje\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\10.0.8\\microsoft.extensions.logging.abstractions.10.0.8.nupkg.sha512",
+    "C:\\Users\\proje\\.nuget\\packages\\microsoft.extensions.primitives\\10.0.8\\microsoft.extensions.primitives.10.0.8.nupkg.sha512",
+    "C:\\Users\\proje\\.nuget\\packages\\nmodbus\\3.0.83\\nmodbus.3.0.83.nupkg.sha512"
+  ],
+  "logs": []
+}

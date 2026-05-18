@@ -1,0 +1,15 @@
+C:\Users\proje\source\repos\Monitor\Grcp\bin\Debug\net10.0\Grcp.deps.json
+C:\Users\proje\source\repos\Monitor\Grcp\bin\Debug\net10.0\Grcp.dll
+C:\Users\proje\source\repos\Monitor\Grcp\bin\Debug\net10.0\Grcp.pdb
+C:\Users\proje\source\repos\Monitor\Grcp\bin\Debug\net10.0\ModBus.dll
+C:\Users\proje\source\repos\Monitor\Grcp\bin\Debug\net10.0\ModBus.pdb
+C:\Users\proje\source\repos\Monitor\Grcp\obj\Debug\net10.0\Grcp.csproj.AssemblyReference.cache
+C:\Users\proje\source\repos\Monitor\Grcp\obj\Debug\net10.0\Grcp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\proje\source\repos\Monitor\Grcp\obj\Debug\net10.0\Grcp.AssemblyInfoInputs.cache
+C:\Users\proje\source\repos\Monitor\Grcp\obj\Debug\net10.0\Grcp.AssemblyInfo.cs
+C:\Users\proje\source\repos\Monitor\Grcp\obj\Debug\net10.0\Grcp.csproj.CoreCompileInputs.cache
+C:\Users\proje\source\repos\Monitor\Grcp\obj\Debug\net10.0\Grcp.csproj.Up2Date
+C:\Users\proje\source\repos\Monitor\Grcp\obj\Debug\net10.0\Grcp.dll
+C:\Users\proje\source\repos\Monitor\Grcp\obj\Debug\net10.0\refint\Grcp.dll
+C:\Users\proje\source\repos\Monitor\Grcp\obj\Debug\net10.0\Grcp.pdb
+C:\Users\proje\source\repos\Monitor\Grcp\obj\Debug\net10.0\ref\Grcp.dll

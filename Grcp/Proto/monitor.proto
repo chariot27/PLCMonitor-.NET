@@ -1,0 +1,36 @@
+syntax = "proto3";
+
+option csharp_namespace = "Grcp.Proto";
+
+package monitor;
+
+service MonitorService {
+  rpc GetPlcStatus (StatusRequest) returns (StatusResponse);
+  rpc StreamPlcData (StreamRequest) returns (stream PlcData);
+}
+
+message StatusRequest {
+  string device_id = 1;
+}
+
+message StatusResponse {
+  bool is_connected = 1;
+  string last_error = 2;
+  map<string, string> metadata = 3;
+}
+
+message StreamRequest {
+  string device_id = 1;
+}
+
+message PlcData {
+  string device_id = 1;
+  int64 timestamp = 2;
+  repeated RegisterValue registers = 3;
+}
+
+message RegisterValue {
+  int32 address = 1;
+  int32 value = 2;
+  string type = 3;
+}

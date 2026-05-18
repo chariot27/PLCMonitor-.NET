@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\proje\\source\\repos\\Monitor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60CA0214-88C6-8651-7B8B-6C0F6C5892CB}|Itens de Solu\u00E7\u00E3o{60CA0214-88C6-8651-7B8B-6C0F6C5892CB}|C:\\Users\\proje\\source\\repos\\Monitor\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{60CA0214-88C6-8651-7B8B-6C0F6C5892CB}|Itens de Solu\u00E7\u00E3o{60CA0214-88C6-8651-7B8B-6C0F6C5892CB}|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46909661-326F-953F-038C-611BD8073A37}|IoC\\IoC.csproj|c:\\users\\proje\\source\\repos\\monitor\\ioc\\appl\\monitorapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46909661-326F-953F-038C-611BD8073A37}|IoC\\IoC.csproj|solutionrelative:ioc\\appl\\monitorapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E434D3E8-8B65-A134-EF7A-B45BF55AD413}|Gatilho\\Gatilho.csproj|c:\\users\\proje\\source\\repos\\monitor\\gatilho\\controllers\\triggercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E434D3E8-8B65-A134-EF7A-B45BF55AD413}|Gatilho\\Gatilho.csproj|solutionrelative:gatilho\\controllers\\triggercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9C299F7-4A3F-319D-F826-6B27CFCE2984}|Monitor\\Monitor.csproj|c:\\users\\proje\\source\\repos\\monitor\\monitor\\controller\\monitorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9C299F7-4A3F-319D-F826-6B27CFCE2984}|Monitor\\Monitor.csproj|solutionrelative:monitor\\controller\\monitorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9C299F7-4A3F-319D-F826-6B27CFCE2984}|Monitor\\Monitor.csproj|c:\\users\\proje\\source\\repos\\monitor\\monitor\\config\\observabilityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9C299F7-4A3F-319D-F826-6B27CFCE2984}|Monitor\\Monitor.csproj|solutionrelative:monitor\\config\\observabilityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{052F0342-450B-0FC3-6BF1-47F3EE92FDF1}|ModBus\\ModBus.csproj|c:\\users\\proje\\source\\repos\\monitor\\modbus\\mapeamentoderegistradores\\deltaplcmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{052F0342-450B-0FC3-6BF1-47F3EE92FDF1}|ModBus\\ModBus.csproj|solutionrelative:modbus\\mapeamentoderegistradores\\deltaplcmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A31FB26-083C-8F6E-B586-629810C54A96}|Grcp\\Grcp.csproj|c:\\users\\proje\\source\\repos\\monitor\\grcp\\proto\\monitor.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{9A31FB26-083C-8F6E-B586-629810C54A96}|Grcp\\Grcp.csproj|solutionrelative:grcp\\proto\\monitor.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A31FB26-083C-8F6E-B586-629810C54A96}|Grcp\\Grcp.csproj|c:\\users\\proje\\source\\repos\\monitor\\grcp\\grcp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9A31FB26-083C-8F6E-B586-629810C54A96}|Grcp\\Grcp.csproj|solutionrelative:grcp\\grcp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E434D3E8-8B65-A134-EF7A-B45BF55AD413}|Gatilho\\Gatilho.csproj|c:\\users\\proje\\source\\repos\\monitor\\gatilho\\gatilho.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E434D3E8-8B65-A134-EF7A-B45BF55AD413}|Gatilho\\Gatilho.csproj|solutionrelative:gatilho\\gatilho.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9C299F7-4A3F-319D-F826-6B27CFCE2984}|Monitor\\Monitor.csproj|c:\\users\\proje\\source\\repos\\monitor\\monitor\\monitor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E9C299F7-4A3F-319D-F826-6B27CFCE2984}|Monitor\\Monitor.csproj|solutionrelative:monitor\\monitor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A31FB26-083C-8F6E-B586-629810C54A96}|Grcp\\Grcp.csproj|c:\\users\\proje\\source\\repos\\monitor\\grcp\\services\\monitorgrpcservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A31FB26-083C-8F6E-B586-629810C54A96}|Grcp\\Grcp.csproj|solutionrelative:grcp\\services\\monitorgrpcservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9C299F7-4A3F-319D-F826-6B27CFCE2984}|Monitor\\Monitor.csproj|c:\\users\\proje\\source\\repos\\monitor\\monitor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9C299F7-4A3F-319D-F826-6B27CFCE2984}|Monitor\\Monitor.csproj|solutionrelative:monitor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Gatilho.csproj",
+              "DocumentMoniker": "C:\\Users\\proje\\source\\repos\\Monitor\\Gatilho\\Gatilho.csproj",
+              "RelativeDocumentMoniker": "Gatilho\\Gatilho.csproj",
+              "ToolTip": "C:\\Users\\proje\\source\\repos\\Monitor\\Gatilho\\Gatilho.csproj",
+              "RelativeToolTip": "Gatilho\\Gatilho.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-15T14:19:22.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MonitorController.cs",
+              "DocumentMoniker": "C:\\Users\\proje\\source\\repos\\Monitor\\Monitor\\Controller\\MonitorController.cs",
+              "RelativeDocumentMoniker": "Monitor\\Controller\\MonitorController.cs",
+              "ToolTip": "C:\\Users\\proje\\source\\repos\\Monitor\\Monitor\\Controller\\MonitorController.cs",
+              "RelativeToolTip": "Monitor\\Controller\\MonitorController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T13:35:22.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ObservabilityConfig.cs",
+              "DocumentMoniker": "C:\\Users\\proje\\source\\repos\\Monitor\\Monitor\\Config\\ObservabilityConfig.cs",
+              "RelativeDocumentMoniker": "Monitor\\Config\\ObservabilityConfig.cs",
+              "ToolTip": "C:\\Users\\proje\\source\\repos\\Monitor\\Monitor\\Config\\ObservabilityConfig.cs",
+              "RelativeToolTip": "Monitor\\Config\\ObservabilityConfig.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T13:35:14.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MonitorApp.cs",
+              "DocumentMoniker": "C:\\Users\\proje\\source\\repos\\Monitor\\IoC\\Appl\\MonitorApp.cs",
+              "RelativeDocumentMoniker": "IoC\\Appl\\MonitorApp.cs",
+              "ToolTip": "C:\\Users\\proje\\source\\repos\\Monitor\\IoC\\Appl\\MonitorApp.cs",
+              "RelativeToolTip": "IoC\\Appl\\MonitorApp.cs",
+              "ViewState": "AgIAAPcAAAAAAAAAAAArwAUBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T13:34:50.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MonitorGrpcService.cs",
+              "DocumentMoniker": "C:\\Users\\proje\\source\\repos\\Monitor\\Grcp\\Services\\MonitorGrpcService.cs",
+              "RelativeDocumentMoniker": "Grcp\\Services\\MonitorGrpcService.cs",
+              "ToolTip": "C:\\Users\\proje\\source\\repos\\Monitor\\Grcp\\Services\\MonitorGrpcService.cs",
+              "RelativeToolTip": "Grcp\\Services\\MonitorGrpcService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwDEAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T13:34:03.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "monitor.proto",
+              "DocumentMoniker": "C:\\Users\\proje\\source\\repos\\Monitor\\Grcp\\Proto\\monitor.proto",
+              "RelativeDocumentMoniker": "Grcp\\Proto\\monitor.proto",
+              "ToolTip": "C:\\Users\\proje\\source\\repos\\Monitor\\Grcp\\Proto\\monitor.proto",
+              "RelativeToolTip": "Grcp\\Proto\\monitor.proto",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
+              "WhenOpened": "2026-05-15T13:33:55.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DeltaPlcMapper.cs",
+              "DocumentMoniker": "C:\\Users\\proje\\source\\repos\\Monitor\\ModBus\\MapeamentoDeRegistradores\\DeltaPlcMapper.cs",
+              "RelativeDocumentMoniker": "ModBus\\MapeamentoDeRegistradores\\DeltaPlcMapper.cs",
+              "ToolTip": "C:\\Users\\proje\\source\\repos\\Monitor\\ModBus\\MapeamentoDeRegistradores\\DeltaPlcMapper.cs",
+              "RelativeToolTip": "ModBus\\MapeamentoDeRegistradores\\DeltaPlcMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T13:33:55.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\proje\\source\\repos\\Monitor\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\proje\\source\\repos\\Monitor\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-05-15T13:33:55.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TriggerController.cs",
+              "DocumentMoniker": "C:\\Users\\proje\\source\\repos\\Monitor\\Gatilho\\Controllers\\TriggerController.cs",
+              "RelativeDocumentMoniker": "Gatilho\\Controllers\\TriggerController.cs",
+              "ToolTip": "C:\\Users\\proje\\source\\repos\\Monitor\\Gatilho\\Controllers\\TriggerController.cs",
+              "RelativeToolTip": "Gatilho\\Controllers\\TriggerController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwEQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T14:28:31.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Grcp.csproj",
+              "DocumentMoniker": "C:\\Users\\proje\\source\\repos\\Monitor\\Grcp\\Grcp.csproj",
+              "RelativeDocumentMoniker": "Grcp\\Grcp.csproj",
+              "ToolTip": "C:\\Users\\proje\\source\\repos\\Monitor\\Grcp\\Grcp.csproj",
+              "RelativeToolTip": "Grcp\\Grcp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-15T14:39:22.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Monitor.csproj",
+              "DocumentMoniker": "C:\\Users\\proje\\source\\repos\\Monitor\\Monitor\\Monitor.csproj",
+              "RelativeDocumentMoniker": "Monitor\\Monitor.csproj",
+              "ToolTip": "C:\\Users\\proje\\source\\repos\\Monitor\\Monitor\\Monitor.csproj",
+              "RelativeToolTip": "Monitor\\Monitor.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-15T13:35:24.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\proje\\source\\repos\\Monitor\\Monitor\\Program.cs",
+              "RelativeDocumentMoniker": "Monitor\\Program.cs",
+              "ToolTip": "C:\\Users\\proje\\source\\repos\\Monitor\\Monitor\\Program.cs",
+              "RelativeToolTip": "Monitor\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T13:12:53.244Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

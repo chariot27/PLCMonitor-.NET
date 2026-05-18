@@ -1,0 +1,15 @@
+C:\Users\proje\source\repos\Monitor\IoC\obj\Debug\net10.0\IoC.csproj.AssemblyReference.cache
+C:\Users\proje\source\repos\Monitor\IoC\obj\Debug\net10.0\IoC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\proje\source\repos\Monitor\IoC\obj\Debug\net10.0\IoC.AssemblyInfoInputs.cache
+C:\Users\proje\source\repos\Monitor\IoC\obj\Debug\net10.0\IoC.AssemblyInfo.cs
+C:\Users\proje\source\repos\Monitor\IoC\obj\Debug\net10.0\IoC.csproj.CoreCompileInputs.cache
+C:\Users\proje\source\repos\Monitor\IoC\bin\Debug\net10.0\IoC.deps.json
+C:\Users\proje\source\repos\Monitor\IoC\bin\Debug\net10.0\IoC.dll
+C:\Users\proje\source\repos\Monitor\IoC\bin\Debug\net10.0\IoC.pdb
+C:\Users\proje\source\repos\Monitor\IoC\bin\Debug\net10.0\ModBus.dll
+C:\Users\proje\source\repos\Monitor\IoC\bin\Debug\net10.0\ModBus.pdb
+C:\Users\proje\source\repos\Monitor\IoC\obj\Debug\net10.0\IoC.csproj.Up2Date
+C:\Users\proje\source\repos\Monitor\IoC\obj\Debug\net10.0\IoC.dll
+C:\Users\proje\source\repos\Monitor\IoC\obj\Debug\net10.0\refint\IoC.dll
+C:\Users\proje\source\repos\Monitor\IoC\obj\Debug\net10.0\IoC.pdb
+C:\Users\proje\source\repos\Monitor\IoC\obj\Debug\net10.0\ref\IoC.dll

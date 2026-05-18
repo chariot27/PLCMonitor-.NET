@@ -1,0 +1,19 @@
+# Monitor (App Host Principal)
+prometheus-net.AspNetCore==8.2.1
+Serilog.AspNetCore==10.0.0
+
+# Gatilho (Trigger REST API)
+Microsoft.AspNetCore.OpenApi==10.0.7
+Swashbuckle.AspNetCore==10.1.7
+
+# Grcp (Contratos de Comunicação gRPC)
+Google.Protobuf==3.34.1
+Grpc.AspNetCore==2.80.0
+Grpc.Tools==2.80.0
+
+# IoC (Inversion of Control & Application Domain)
+Microsoft.Extensions.Configuration.Abstractions==10.0.8
+Microsoft.Extensions.Logging.Abstractions==10.0.8
+
+# ModBus (Camada de Infraestrutura de Comunicação)
+NModbus==3.0.83

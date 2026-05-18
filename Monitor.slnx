@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/Itens de Solução/">
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="Gatilho/Gatilho.csproj" />
+  <Project Path="Grcp/Grcp.csproj" />
+  <Project Path="IoC/IoC.csproj" />
+  <Project Path="ModBus/ModBus.csproj" />
+  <Project Path="Monitor/Monitor.csproj" />
+</Solution>

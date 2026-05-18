@@ -1,0 +1,12 @@
+C:\Users\proje\source\repos\Monitor\ModBus\obj\Debug\net10.0\ModBus.csproj.AssemblyReference.cache
+C:\Users\proje\source\repos\Monitor\ModBus\obj\Debug\net10.0\ModBus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\proje\source\repos\Monitor\ModBus\obj\Debug\net10.0\ModBus.AssemblyInfoInputs.cache
+C:\Users\proje\source\repos\Monitor\ModBus\obj\Debug\net10.0\ModBus.AssemblyInfo.cs
+C:\Users\proje\source\repos\Monitor\ModBus\obj\Debug\net10.0\ModBus.csproj.CoreCompileInputs.cache
+C:\Users\proje\source\repos\Monitor\ModBus\bin\Debug\net10.0\ModBus.deps.json
+C:\Users\proje\source\repos\Monitor\ModBus\bin\Debug\net10.0\ModBus.dll
+C:\Users\proje\source\repos\Monitor\ModBus\bin\Debug\net10.0\ModBus.pdb
+C:\Users\proje\source\repos\Monitor\ModBus\obj\Debug\net10.0\ModBus.dll
+C:\Users\proje\source\repos\Monitor\ModBus\obj\Debug\net10.0\refint\ModBus.dll
+C:\Users\proje\source\repos\Monitor\ModBus\obj\Debug\net10.0\ModBus.pdb
+C:\Users\proje\source\repos\Monitor\ModBus\obj\Debug\net10.0\ref\ModBus.dll

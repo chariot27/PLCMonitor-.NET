@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "Monitor.Controller.MonitorController",
+    "Method": "GetStatus",
+    "RelativePath": "api/Monitor/status",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
